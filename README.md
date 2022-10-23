@@ -1,6 +1,6 @@
 # hidden-markov-model
 ### Reference: This is a school homework. Below explanation is made by the instructor of CmpE 540 in Bogazici University 2021-2022 Spring
-Hidden markov model is applied as a solution to problem below.
+Hidden markov model is applied as a solution to problem below.  
 Take the sequence of sensor measurements from the user and print out the probability distribution of robot’s location at the last time-step.  
 Input: on on off off  
 Output: Print out the probability distribution P(X4|on1,on2,off3,off4) as a list of values.  
